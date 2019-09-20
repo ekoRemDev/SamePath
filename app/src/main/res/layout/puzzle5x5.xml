@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/colorPrimary">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            android:gravity="center"
+            >
+
+            <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_tile01"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile02"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile03"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile04"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile05"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_tile06"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile07"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile08"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile09"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile10"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_tile11"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile12"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile13"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile14"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile15"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_tile16"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile17"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile18"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile19"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile20"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_tile21"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile22"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile23"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile24"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_tile25"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+
+
+
+
+            </TableLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button_play"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:text="Start Playing"
+                android:layout_margin="25dp"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:background="@color/colorPrimaryDark">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            android:gravity="center"
+            >
+
+            <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_path01"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path02"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path03"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path04"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path05"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_path06"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path07"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path08"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path09"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path10"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_path11"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path12"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path13"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path14"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path15"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_path16"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path17"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path18"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path19"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path20"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="60dp"
+                    android:layout_height="60dp">
+
+                    <TableRow
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/imageview_path21"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path22"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path23"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path24"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+                        <ImageView
+                            android:id="@+id/imageview_path25"
+                            android:layout_width="60dp"
+                            android:layout_height="60dp"
+                            android:padding="2dp"
+                            android:src="@drawable/ic_placeholder_0" />
+
+
+                    </TableRow>
+
+
+                </TableRow>
+
+            </TableLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/button_hint"
+                android:layout_width="150dp"
+                android:layout_height="50dp"
+                android:text="Start Playing"
+                android:layout_margin="25dp"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
